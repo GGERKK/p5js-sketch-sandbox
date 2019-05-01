@@ -1,7 +1,0 @@
-
-to launch headless chrome from terminal
-from root dir execute: http-server -c-1 -p 8000
-then copy:
-/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --incognito --app=http://localhost:8000
-
-also, you'll have to disable cache (while DevTools is open) in DevTools settings

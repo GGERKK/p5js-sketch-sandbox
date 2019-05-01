@@ -5,3 +5,7 @@ then copy:
 /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --incognito --app=http://localhost:8000
 
 also, you'll have to disable cache (while DevTools is open) in DevTools settings
+
+Command line to push to Github.
+git status
+git add .
