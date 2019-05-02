@@ -17,7 +17,7 @@ function draw() {
 
     translate(width/2, height/2)
     stroke(0, 0)
-    fill(195, 195, 185)
+    fill(195, 0, 185)
     ellipse(0, 0, 400, 160)
     fill(0, 0)
     stroke(255)
