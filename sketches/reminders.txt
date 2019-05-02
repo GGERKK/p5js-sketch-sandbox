@@ -9,7 +9,7 @@ also, you'll have to disable cache (while DevTools is open) in DevTools settings
 Command line to push to Github.
 git status
 git remote -v
-git push -u origin master
+git push -u origin master 
 
 github push/pull tut:
 https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/all
